@@ -1,0 +1,133 @@
+body {
+    background-color: rgb(1, 18, 38);
+
+}
+h2 {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 77px;
+    color: #000000;
+}
+p {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    color: #011226;
+}
+hr {
+    width: 226px;
+    height: 0px;
+    border: 1px solid #011226;
+
+}
+.navbar-brand {
+    padding-left: 108px;
+    padding-top: 50px;
+}
+.nav-item {
+    padding-right: 57px;
+    padding-top: 55px;
+}
+.nav-link {
+    color: #F5F5F5;
+}
+.contact {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    margin-top: 41px;
+    margin-right: 100px;
+    border-radius: 5px;
+    width: 180px;
+    height: 50px;
+    color: #011226;
+    background-color: #64F23C;
+}
+.navbar-nav {
+        padding-right: 220px;
+}
+.main-text {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 58px;
+    width: 547px;
+    height: 181px;
+    color: #FFFFFF;
+
+}
+.span1 {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 58px;
+    color: #64F23C;
+    margin-bottom: 0;
+}
+.gstarted {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: #011226;
+    background-color: #64F23C;
+    border-radius: 5px;
+    width: 180px;
+    height: 50px;
+}
+.parent-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 121px;
+    margin-top: 100px;
+}
+.para {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    width: 539px;
+    height: 63px;
+    color: #FFFFFF;
+}
+.main-pic {
+    width: 600px;
+    height: 421px;
+    margin-right: 115px;
+}
+.circle {
+    position: absolute;
+    margin-top: 100px;
+}
+.details {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 1306px;
+    height: 230px;
+    background: #64F23C;
+    border-radius: 10px;
+    margin-top: 150px;
+    margin-left: 140px;
+    margin-bottom: 40px;
+   
+   
+}
+.detail1 {
+    padding-top: 22px;
+    padding-right: 50px;
+    padding-left: 50px;
+    margin-bottom: 0;
+    text-align: center;
+}
